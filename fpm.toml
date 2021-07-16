@@ -1,0 +1,9 @@
+name = "fftpack"
+version = "5.1"
+license = "FFTPack Software License"
+
+[build]
+auto-tests = true
+
+[library]
+source-dir = "src"
