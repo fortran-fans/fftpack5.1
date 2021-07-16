@@ -3,7 +3,7 @@ FFTPACK 5.1 NCAR Version
 ## Get Start
 ```bash
 git clone https://github.com/fortran-fans/fftpack5.1-NCAR.git
-cd fftpack5.1-GPL
+cd fftpack5.1-NCAR
 ```
 ### Supported Compilers
 The following combinations are tested on the default branch of `fftpack`:  
